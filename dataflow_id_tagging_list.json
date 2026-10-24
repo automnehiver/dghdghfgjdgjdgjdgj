@@ -1,0 +1,114 @@
+[
+  {
+    "api": "-[BDDownloadChromiumTask startDownload]",
+    "api_id": "11600",
+    "defer_preload": false,
+    "dataflow_id": "0x20000505",
+    "dataflow_id_type": "network"
+  },
+  {
+    "api": "-[BDWebViewPreloadTask resume]",
+    "api_id": "11601",
+    "defer_preload": false,
+    "dataflow_id": "0x20000506",
+    "dataflow_id_type": "network"
+  },
+  {
+    "api": "-[BDWebFalconURLSchemaHandler bdw_startURLSchemeTask]",
+    "api_id": "11602",
+    "defer_preload": false,
+    "dataflow_id": "0x20000507",
+    "dataflow_id_type": "network"
+  },
+  {
+    "api": "-[BDWebViewSchemeTaskHandler sendRealTTNetRequest:enableHttpCache:headerCallback:dataCallback:finishCallback:redirectCallback:]",
+    "api_id": "11603",
+    "defer_preload": false,
+    "dataflow_id": "0x20000508",
+    "dataflow_id_type": "network"
+  },
+  {
+    "api": "+[BDWebDefaultURLSchemaHandler preconnectUrl:]",
+    "api_id": "11604",
+    "defer_preload": false,
+    "dataflow_id": "0x20000509",
+    "dataflow_id_type": "network"
+  },
+  {
+    "api": "-[IESFalconURLProtocol startLoadingWithWebView:]",
+    "api_id": "11605",
+    "defer_preload": false,
+    "dataflow_id": "0x2000050A",
+    "dataflow_id_type": "network"
+  },
+  {
+    "api": "-[WKUserContentController bdw_interceptionRequest:messageBody:]",
+    "api_id": "11606",
+    "defer_preload": false,
+    "dataflow_id": "0x2000050B",
+    "dataflow_id_type": "network"
+  },
+  {
+    "api": "-[IESEffectPlatformRequestManager downloadFileWithURLString:downloadPath:downloadProgress:completion:]",
+    "api_id": "11607",
+    "defer_preload": false,
+    "dataflow_id": "0x2000050C",
+    "dataflow_id_type": "network"
+  },
+  {
+    "api": "-[TTDownloadTTNetTask resume]",
+    "api_id": "11608",
+    "defer_preload": false,
+    "dataflow_id": "0x2000050D",
+    "dataflow_id_type": "network"
+  },
+  {
+    "api": "-[BDATC2STracker trackURL:model:tokens:]",
+    "api_id": "11609",
+    "defer_preload": false,
+    "dataflow_id": "0x2000050E",
+    "dataflow_id_type": "network"
+  },
+  {
+    "api": "-[AVMDLiOSNetwork resume]",
+    "api_id": "11610",
+    "defer_preload": false,
+    "dataflow_id": "0x2000050F",
+    "dataflow_id_type": "network"
+  },
+  {
+    "api": "-[IESOwnPlayerVideoEngineTTNet configTaskWithURL:params:headers:completion:]",
+    "api_id": "11611",
+    "defer_preload": false,
+    "dataflow_id": "0x20000510",
+    "dataflow_id_type": "network"
+  },
+  {
+    "api": "-[AWEMediaDownloadTask runStage:]",
+    "api_id": "11612",
+    "defer_preload": false,
+    "dataflow_id": "0x20000511",
+    "dataflow_id_type": "network"
+  },
+  {
+    "api": "-[BDWebDefaultURLSchemaHandler bdw_startURLSchemeTask]",
+    "api_id": "11613",
+    "defer_preload": false,
+    "dataflow_id": "0x20000512",
+    "dataflow_id_type": "network"
+  },
+  {
+    "api": "-[TTVideoEngineNetwork resume]",
+    "api_id": "11614",
+    "defer_preload": false,
+    "dataflow_id": "0x20000513",
+    "dataflow_id_type": "network"
+  },
+  {
+    "api": "-[IESOwnPlayerVideoEngineTTNet resume]",
+    "api_id": "11615",
+    "defer_preload": false,
+    "dataflow_id": "0x20000514",
+    "dataflow_id_type": "network"
+  }
+]
